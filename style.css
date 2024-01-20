@@ -1,0 +1,13 @@
+.box {
+    width: 871px;
+    height: 908px;
+  }
+  
+  .box .main-screen {
+    position: fixed;
+    width: 871px;
+    height: 908px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+  }
